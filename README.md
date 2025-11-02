@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **EKE-Electronics**
 
-- 👨‍💻 All of my projects are available at [https://omar-almashhadani.netlify.app/](https://omar-almashhadani.com)
+- 👨‍💻 All of my projects are available at [https://omar-almashhadani.com](https://omar-almashhadani.com)
 
 - 💬 Ask me about **React, TypeScript, Javascript**
 
